@@ -1,5 +1,6 @@
 # AI Model App
-
+## Live App
+[Visit our website](https://aimodelapp-cx.netlify.app/)
 ## Overview
 The AI Model App is a React-based frontend application designed to provide users with an intuitive platform for exploring a diverse range of AI models. Whether you're a researcher, developer, or enthusiast, this app offers a comprehensive collection of AI models spanning various domains such as computer vision, natural language processing, and machine learning algorithms.
 
@@ -9,6 +10,11 @@ Whether you're seeking inspiration for your next project, conducting research, o
 
 ## JavaScript Framework
 The project is built using React as the primary JavaScript framework. No major plugins or packages were installed beyond React itself.
+
+## Page Load Time
+The page load time of the application was measured using browser developer tools, particularly the Network tab which provides insights into the loading times of various resources. Additionally, performance monitoring tools like Lighthouse or Google PageSpeed Insights can also be used for more comprehensive analysis.
+
+![Performance](https://github.com/CHIEFXIX/AiModelInfoSite/assets/109267097/202f8e81-bcd2-432f-a040-7ae13f14d673)
 
 ## Installation
 To install and run the AI Model App locally, follow these steps:
@@ -39,10 +45,6 @@ To install and run the AI Model App locally, follow these steps:
 
 5. Open your web browser and visit `http://localhost:3000` to view the app.
 
-## Page Load Time
-The page load time of the application was measured using browser developer tools, particularly the Network tab which provides insights into the loading times of various resources. Additionally, performance monitoring tools like Lighthouse or Google PageSpeed Insights can also be used for more comprehensive analysis.
-
-![Performance](https://github.com/CHIEFXIX/AiModelInfoSite/assets/109267097/202f8e81-bcd2-432f-a040-7ae13f14d673)
 
 
 ## Optimizations
